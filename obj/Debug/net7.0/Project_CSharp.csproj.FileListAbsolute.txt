@@ -1,0 +1,14 @@
+D:\Project_CSharp\bin\Debug\net7.0\Project_CSharp.exe
+D:\Project_CSharp\bin\Debug\net7.0\Project_CSharp.deps.json
+D:\Project_CSharp\bin\Debug\net7.0\Project_CSharp.runtimeconfig.json
+D:\Project_CSharp\bin\Debug\net7.0\Project_CSharp.dll
+D:\Project_CSharp\bin\Debug\net7.0\Project_CSharp.pdb
+D:\Project_CSharp\obj\Debug\net7.0\Project_CSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project_CSharp\obj\Debug\net7.0\Project_CSharp.AssemblyInfoInputs.cache
+D:\Project_CSharp\obj\Debug\net7.0\Project_CSharp.AssemblyInfo.cs
+D:\Project_CSharp\obj\Debug\net7.0\Project_CSharp.csproj.CoreCompileInputs.cache
+D:\Project_CSharp\obj\Debug\net7.0\Project_CSharp.dll
+D:\Project_CSharp\obj\Debug\net7.0\refint\Project_CSharp.dll
+D:\Project_CSharp\obj\Debug\net7.0\Project_CSharp.pdb
+D:\Project_CSharp\obj\Debug\net7.0\Project_CSharp.genruntimeconfig.cache
+D:\Project_CSharp\obj\Debug\net7.0\ref\Project_CSharp.dll
