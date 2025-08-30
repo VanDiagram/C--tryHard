@@ -1,4 +1,4 @@
-# <p align="center">Troy University Resources</p>
+# <p align="center">Hutech Resources</p>
 
 <div align="center">
 
